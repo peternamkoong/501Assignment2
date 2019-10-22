@@ -1,0 +1,24 @@
+======================================================
+Filename: script8.txt
+Running Test: Test String
+Recursive: true
+======================================================
+Class: java.lang.String
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
+public java.lang.String(java.lang.String)
